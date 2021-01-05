@@ -3,8 +3,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "bluetooth": "*",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
